@@ -44,6 +44,7 @@
     {"id":{"name":"rm_sceneSelector","path":"rooms/rm_sceneSelector/rm_sceneSelector.yy",},},
     {"id":{"name":"spr_collision","path":"sprites/spr_collision/spr_collision.yy",},},
     {"id":{"name":"spr_icon","path":"sprites/spr_icon/spr_icon.yy",},},
+    {"id":{"name":"spr_kinv_scene1","path":"sprites/spr_kinv_scene1/spr_kinv_scene1.yy",},},
     {"id":{"name":"spr_resu_down_idle","path":"sprites/spr_resu_down_idle/spr_resu_down_idle.yy",},},
     {"id":{"name":"spr_resu_down_walk","path":"sprites/spr_resu_down_walk/spr_resu_down_walk.yy",},},
     {"id":{"name":"spr_resu_left_idle","path":"sprites/spr_resu_left_idle/spr_resu_left_idle.yy",},},

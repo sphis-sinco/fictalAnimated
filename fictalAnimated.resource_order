@@ -17,6 +17,7 @@
     {"name":"obj_resu","order":1,"path":"objects/obj_resu/obj_resu.yy",},
     {"name":"rm_scene1","order":1,"path":"rooms/rm_scene1/rm_scene1.yy",},
     {"name":"spr_collision","order":2,"path":"sprites/spr_collision/spr_collision.yy",},
+    {"name":"spr_kinv_scene1","order":6,"path":"sprites/spr_kinv_scene1/spr_kinv_scene1.yy",},
     {"name":"spr_resu_down_walk","order":1,"path":"sprites/spr_resu_down_walk/spr_resu_down_walk.yy",},
     {"name":"spr_resu_left_idle","order":4,"path":"sprites/spr_resu_left_idle/spr_resu_left_idle.yy",},
     {"name":"spr_resu_right_idle","order":3,"path":"sprites/spr_resu_right_idle/spr_resu_right_idle.yy",},
