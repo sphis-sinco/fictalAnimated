@@ -11,10 +11,12 @@
   "ResourceOrderSettings":[
     {"name":"font_VCR_small","order":1,"path":"fonts/font_VCR_small/font_VCR_small.yy",},
     {"name":"obj_cutsceneTrigger","order":3,"path":"objects/obj_cutsceneTrigger/obj_cutsceneTrigger.yy",},
+    {"name":"obj_funValueDisplay","order":4,"path":"objects/obj_funValueDisplay/obj_funValueDisplay.yy",},
     {"name":"obj_gifManager","order":2,"path":"objects/obj_gifManager/obj_gifManager.yy",},
     {"name":"obj_resu","order":1,"path":"objects/obj_resu/obj_resu.yy",},
     {"name":"rm_scene1","order":1,"path":"rooms/rm_scene1/rm_scene1.yy",},
     {"name":"spr_cutsceneCollision","order":2,"path":"sprites/spr_cutsceneCollision/spr_cutsceneCollision.yy",},
     {"name":"spr_resu_down_walk","order":1,"path":"sprites/spr_resu_down_walk/spr_resu_down_walk.yy",},
+    {"name":"spr_resu_side_idle","order":3,"path":"sprites/spr_resu_side_idle/spr_resu_side_idle.yy",},
   ],
 }

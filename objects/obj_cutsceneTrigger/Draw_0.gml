@@ -15,6 +15,10 @@ if (global.in_cutscene) then {
 	if (room == rm_scene1 and not global.last_cutscene == rm_scene1) then {
 		if (cutscene_tick < 120) then {
 			draw_text(dialoguebox_x1 + 16, dialoguebox_y1 + 16, "Do you really wanna do this?")
+		} else if (cutscene_tick < 180) then {
+			draw_text(dialoguebox_x1 + 16, dialoguebox_y1 + 16, "ahhaahahahahahahahahahahahahahahahahahahahahaha")
+		} else if (cutscene_tick < 200) then {
+			draw_text(dialoguebox_x1 + 16, dialoguebox_y1 + 16, "youre gonna have : " + base64_encode(string(global.fun) + " fun!"))
 		} else {
 			global.last_cutscene = room
 			global.in_cutscene = false

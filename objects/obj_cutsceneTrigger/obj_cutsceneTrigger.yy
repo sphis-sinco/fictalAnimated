@@ -30,6 +30,7 @@
     {"$GMObjectProperty":"v2","%Name":"cutscene_enabled","filters":[],"listItems":[],"multiselect":false,"name":"cutscene_enabled","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
     {"$GMObjectProperty":"v2","%Name":"obj_target","filters":[],"listItems":[],"multiselect":false,"name":"obj_target","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_resu","varType":4,},
     {"$GMObjectProperty":"v2","%Name":"cutscene_tick","filters":[],"listItems":[],"multiselect":false,"name":"cutscene_tick","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
+    {"$GMObjectProperty":"v2","%Name":"previous_dto","filters":[],"listItems":[],"multiselect":false,"name":"previous_dto","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
