@@ -6,24 +6,42 @@ dialoguebox_x2 = window_get_width() - dialoguebox_x1
 dialoguebox_y1 = window_get_height() - 160
 dialoguebox_y2 = window_get_height() - 20
 
-if (global.in_cutscene) then {
+if not (sprite == pointer_null) then {
+	draw_sprite(sprite, -1, x, y)
+}
+
+drawing_dialogue = false
+
+function dialogue(tick = 0, dialogue) {
+	if (cutscene_tick < tick and not drawing_dialogue) then {
+		drawing_dialogue = true
+		
+		draw_text(dialoguebox_x1 + 16, dialoguebox_y1 + 16, dialogue)
+		if (skip_dialogue)
+			cutscene_tick = tick
+	}
+}
+
+if (global.in_cutscene and not played_cutscene) then {
 	cutscene_tick++
+	
+	skip_dialogue = keyboard_check_pressed(vk_enter)
 	
 	draw_set_font(font_VCR)
 	draw_rectangle_colour(dialoguebox_x1, dialoguebox_y1, dialoguebox_x2, dialoguebox_y2, c_black, c_black, c_black, c_black,false)
 	
-	if (room == rm_scene1 and not global.last_cutscene == rm_scene1) then {
-		if (cutscene_tick < 120) then {
-			draw_text(dialoguebox_x1 + 16, dialoguebox_y1 + 16, "Do you really wanna do this?")
-		} else if (cutscene_tick < 180) then {
-			draw_text(dialoguebox_x1 + 16, dialoguebox_y1 + 16, "ahhaahahahahahahahahahahahahahahahahahahahahaha")
-		} else if (cutscene_tick < 200) then {
-			draw_text(dialoguebox_x1 + 16, dialoguebox_y1 + 16, "youre gonna have : " + base64_encode(string(global.fun) + " fun!"))
-		} else {
-			global.last_cutscene = room
+	if (cutscene_id == "doyou?") then {
+		
+		dialogue(120, "Do you really wanna do this?")
+		dialogue(180, "ahhaahahahahahahahahahahahahahahahahahahahahaha")
+		dialogue(200, "youre gonna have : " + base64_encode(string(global.fun) + " fun!"))
+		
+		if (not drawing_dialogue) then {
+			played_cutscene = true
 			global.in_cutscene = false
 		}
 	} else {
+		played_cutscene = true
 		global.in_cutscene = false
 	}
 } else {

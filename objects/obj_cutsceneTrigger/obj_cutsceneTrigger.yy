@@ -27,18 +27,18 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v2","%Name":"cutscene_enabled","filters":[],"listItems":[],"multiselect":false,"name":"cutscene_enabled","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
     {"$GMObjectProperty":"v2","%Name":"obj_target","filters":[],"listItems":[],"multiselect":false,"name":"obj_target","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_resu","varType":4,},
     {"$GMObjectProperty":"v2","%Name":"cutscene_tick","filters":[],"listItems":[],"multiselect":false,"name":"cutscene_tick","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v2","%Name":"previous_dto","filters":[],"listItems":[],"multiselect":false,"name":"previous_dto","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
+    {"$GMObjectProperty":"v2","%Name":"played_cutscene","filters":[],"listItems":[],"multiselect":false,"name":"played_cutscene","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
+    {"$GMObjectProperty":"v2","%Name":"cutscene_id","filters":[],"listItems":[],"multiselect":false,"name":"cutscene_id","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"sprite","filters":[],"listItems":[],"multiselect":false,"name":"sprite","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"pointer_null","varType":4,},
+    {"$GMObjectProperty":"v2","%Name":"distance_until_start","filters":[],"listItems":[],"multiselect":false,"name":"distance_until_start","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"15","varType":1,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":null,
-  "spriteMaskId":{
-    "name":"spr_cutsceneCollision",
-    "path":"sprites/spr_cutsceneCollision/spr_cutsceneCollision.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }

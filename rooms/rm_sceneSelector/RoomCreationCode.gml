@@ -1,6 +1,5 @@
 global.gif_count = 0
 global.in_cutscene = false
-global.last_cutscene = rm_sceneSelector
 
 randomise()
 global.fun = int64(random_range(0, 100))
