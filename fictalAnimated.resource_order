@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings":[
+    {"name":"gameOptions","order":3,"path":"folders/gameOptions.yy",},
+    {"name":"images","order":1,"path":"folders/gameOptions/images.yy",},
+    {"name":"fonts","order":2,"path":"folders/project/fonts.yy",},
+    {"name":"objects","order":5,"path":"folders/project/objects.yy",},
+    {"name":"scripts","order":3,"path":"folders/project/scripts.yy",},
+    {"name":"sprites","order":1,"path":"folders/project/sprites.yy",},
+    {"name":"animation","order":1,"path":"folders/project/sprites/animation.yy",},
+    {"name":"menus","order":2,"path":"folders/project/sprites/menus.yy",},
+  ],
+  "ResourceOrderSettings":[],
+}
