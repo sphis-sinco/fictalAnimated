@@ -17,6 +17,8 @@
     {"name":"rm_scene1","order":1,"path":"rooms/rm_scene1/rm_scene1.yy",},
     {"name":"spr_cutsceneCollision","order":2,"path":"sprites/spr_cutsceneCollision/spr_cutsceneCollision.yy",},
     {"name":"spr_resu_down_walk","order":1,"path":"sprites/spr_resu_down_walk/spr_resu_down_walk.yy",},
-    {"name":"spr_resu_side_idle","order":3,"path":"sprites/spr_resu_side_idle/spr_resu_side_idle.yy",},
+    {"name":"spr_resu_left_idle","order":4,"path":"sprites/spr_resu_left_idle/spr_resu_left_idle.yy",},
+    {"name":"spr_resu_right_idle","order":3,"path":"sprites/spr_resu_right_idle/spr_resu_right_idle.yy",},
+    {"name":"spr_resu_right_walk","order":5,"path":"sprites/spr_resu_right_walk/spr_resu_right_walk.yy",},
   ],
 }

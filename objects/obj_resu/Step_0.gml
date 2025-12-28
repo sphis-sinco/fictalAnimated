@@ -7,9 +7,8 @@ if (keyboard_check(vk_down) and can_move) then {
 	y += resu_speed
 	sprite_index = spr_resu_down_walk
 } else {
-	down_dir = false
-	
-	if (not any_movement) then {
+	if (down_dir) then {
+		down_dir = false
 		sprite_index = spr_resu_down_idle
 	}
 }
@@ -20,9 +19,8 @@ if (keyboard_check(vk_up) and can_move) then {
 	y -= resu_speed
 	sprite_index = spr_resu_down_walk
 } else {
-	up_dir = false
-	
-	if (not any_movement) then {
+	if (up_dir) then {
+		up_dir = false
 		sprite_index = spr_resu_down_idle
 	}
 }
@@ -30,11 +28,13 @@ if (keyboard_check(vk_up) and can_move) then {
 if (keyboard_check(vk_left) and can_move) then {
 	left_dir = true
 	x -= resu_speed
+	sprite_index = spr_resu_left_idle
 	sprite_index = spr_resu_down_walk
+	// image_xscale = -image_yscale
 } else {
-	left_dir = false
-	
-	if (not any_movement) then {
+	if (left_dir) then {
+		left_dir = false
+		sprite_index = spr_resu_left_idle
 		sprite_index = spr_resu_down_idle
 	}
 }
@@ -42,11 +42,13 @@ if (keyboard_check(vk_left) and can_move) then {
 if (keyboard_check(vk_right) and can_move) then {
 	right_dir = true
 	x += resu_speed
+	sprite_index = spr_resu_right_idle
 	sprite_index = spr_resu_down_walk
+	// image_xscale = image_yscale
 } else {
-	right_dir = false
-	
-	if (not any_movement) then {
+	if (right_dir) then {
+		right_dir = false
+		sprite_index = spr_resu_right_idle
 		sprite_index = spr_resu_down_idle
 	}
 }
