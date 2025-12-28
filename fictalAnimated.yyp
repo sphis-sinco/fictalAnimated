@@ -31,6 +31,7 @@
   },
   "name":"fictalAnimated",
   "resources":[
+    {"id":{"name":"font_VCR_small","path":"fonts/font_VCR_small/font_VCR_small.yy",},},
     {"id":{"name":"font_VCR","path":"fonts/font_VCR/font_VCR.yy",},},
     {"id":{"name":"note_license","path":"notes/note_license/note_license.yy",},},
     {"id":{"name":"obj_gifManager","path":"objects/obj_gifManager/obj_gifManager.yy",},},
