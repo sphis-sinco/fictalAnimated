@@ -33,6 +33,7 @@
   "resources":[
     {"id":{"name":"font_VCR","path":"fonts/font_VCR/font_VCR.yy",},},
     {"id":{"name":"note_license","path":"notes/note_license/note_license.yy",},},
+    {"id":{"name":"obj_gifManager","path":"objects/obj_gifManager/obj_gifManager.yy",},},
     {"id":{"name":"obj_sceneSelector_scene1","path":"objects/obj_sceneSelector_scene1/obj_sceneSelector_scene1.yy",},},
     {"id":{"name":"object_resu","path":"objects/object_resu/object_resu.yy",},},
     {"id":{"name":"rm_scene1","path":"rooms/rm_scene1/rm_scene1.yy",},},

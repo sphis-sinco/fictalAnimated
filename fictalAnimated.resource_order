@@ -10,6 +10,7 @@
     {"name":"menus","order":2,"path":"folders/project/sprites/menus.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_gifManager","order":2,"path":"objects/obj_gifManager/obj_gifManager.yy",},
     {"name":"object_resu","order":1,"path":"objects/object_resu/object_resu.yy",},
     {"name":"rm_scene1","order":1,"path":"rooms/rm_scene1/rm_scene1.yy",},
     {"name":"spr_resu_down_walk","order":1,"path":"sprites/spr_resu_down_walk/spr_resu_down_walk.yy",},
