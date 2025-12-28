@@ -15,6 +15,8 @@ if (saveGif)
         gif_save(gifImage, gifName + ".gif");
         frameCount = 0;
         saveGif = false;
+		
+		show_debug_message("gif done :3")
     }
 	
     frameCount++;
