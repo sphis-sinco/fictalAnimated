@@ -1,7 +1,7 @@
 {
   "$GMNotes":"v1",
-  "%Name":"license",
-  "name":"license",
+  "%Name":"note_license",
+  "name":"note_license",
   "parent":{
     "name":"installer",
     "path":"folders/gameOptions/installer.yy",

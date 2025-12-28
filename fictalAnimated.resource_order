@@ -9,5 +9,7 @@
     {"name":"animation","order":1,"path":"folders/project/sprites/animation.yy",},
     {"name":"menus","order":2,"path":"folders/project/sprites/menus.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"rm_scene1","order":1,"path":"rooms/rm_scene1/rm_scene1.yy",},
+  ],
 }

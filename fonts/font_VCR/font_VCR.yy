@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"VCR",
+  "%Name":"font_VCR",
   "AntiAlias":0,
   "applyKerning":0,
   "ascender":21,
@@ -117,7 +117,7 @@
   "last":0,
   "lineHeight":21,
   "maintainGms1Font":false,
-  "name":"VCR",
+  "name":"font_VCR",
   "parent":{
     "name":"fonts",
     "path":"folders/project/fonts.yy",
