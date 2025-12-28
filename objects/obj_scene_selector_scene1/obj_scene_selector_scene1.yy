@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_sceneSelector_scene1",
+  "%Name":"obj_scene_selector_scene1",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_sceneSelector_scene1",
+  "name":"obj_scene_selector_scene1",
   "overriddenProperties":[],
   "parent":{
-    "name":"objects",
-    "path":"folders/project/objects.yy",
+    "name":"menus",
+    "path":"folders/project/objects/menus.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_sceneSelect_scene1",
-    "path":"sprites/spr_sceneSelect_scene1/spr_sceneSelect_scene1.yy",
+    "name":"spr_scene_selector_scene1",
+    "path":"sprites/spr_scene_selector_scene1/spr_scene_selector_scene1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

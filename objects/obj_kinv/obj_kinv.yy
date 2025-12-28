@@ -6,8 +6,8 @@
   "name":"obj_kinv",
   "overriddenProperties":[],
   "parent":{
-    "name":"objects",
-    "path":"folders/project/objects.yy",
+    "name":"animation",
+    "path":"folders/project/objects/animation.yy",
   },
   "parentObjectId":null,
   "persistent":false,

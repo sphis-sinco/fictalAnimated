@@ -19,7 +19,7 @@ if (tick == 480) then {
 }
 
 if (tick == 480 + 20) then {
-	room = rm_sceneSelector
+	room = rm_scene_selector
 }
 
 tick++

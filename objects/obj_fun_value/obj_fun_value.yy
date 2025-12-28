@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_funValueDisplay",
+  "%Name":"obj_fun_value",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_funValueDisplay",
+  "name":"obj_fun_value",
   "overriddenProperties":[],
   "parent":{
-    "name":"objects",
-    "path":"folders/project/objects.yy",
+    "name":"menus",
+    "path":"folders/project/objects/menus.yy",
   },
   "parentObjectId":null,
   "persistent":false,
