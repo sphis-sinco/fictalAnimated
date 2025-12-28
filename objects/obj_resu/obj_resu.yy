@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"object_resu",
+  "%Name":"obj_resu",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"object_resu",
+  "name":"obj_resu",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -32,6 +32,7 @@
     {"$GMObjectProperty":"v2","%Name":"right_dir","filters":[],"listItems":[],"multiselect":false,"name":"right_dir","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
     {"$GMObjectProperty":"v2","%Name":"resu_speed","filters":[],"listItems":[],"multiselect":false,"name":"resu_speed","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"4","varType":1,},
     {"$GMObjectProperty":"v2","%Name":"any_movement","filters":[],"listItems":[],"multiselect":false,"name":"any_movement","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
+    {"$GMObjectProperty":"v2","%Name":"can_move","filters":[],"listItems":[],"multiselect":false,"name":"can_move","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"true","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

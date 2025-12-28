@@ -1,11 +1,17 @@
 /// @description F2 starts the gif making
 
-if not saveGif then {
-	gifName = "fictalAnimated_"+GM_version+"_"+string(random_range(0, 8 * 8 * 8 * 8 * 8))
+if not save_gif then {
+	gif_name = "fictalAnimated"
+	if (debug_mode) then {
+		gif_name += "-debug"
+	}
+	gif_name += "_" + GM_version
+	gif_name += "_" + string(global.gif_count)
+	global.gif_count++
 
-	frameCount = 0
-	saveGif = true
+	frame_count = 0
+	save_gif = true
 
 	show_debug_message(room_get_name(room))
-	show_debug_message("IM MAKING A GIF: " + gifName)
+	show_debug_message("IM MAKING A GIF: " + gif_name)
 }
