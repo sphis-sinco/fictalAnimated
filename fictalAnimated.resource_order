@@ -11,7 +11,6 @@
   "ResourceOrderSettings":[
     {"name":"font_VCR_small","order":1,"path":"fonts/font_VCR_small/font_VCR_small.yy",},
     {"name":"obj_collision","order":5,"path":"objects/obj_collision/obj_collision.yy",},
-    {"name":"obj_cutsceneTrigger","order":3,"path":"objects/obj_cutsceneTrigger/obj_cutsceneTrigger.yy",},
     {"name":"obj_funValueDisplay","order":4,"path":"objects/obj_funValueDisplay/obj_funValueDisplay.yy",},
     {"name":"obj_gifManager","order":2,"path":"objects/obj_gifManager/obj_gifManager.yy",},
     {"name":"obj_resu","order":1,"path":"objects/obj_resu/obj_resu.yy",},

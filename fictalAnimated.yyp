@@ -35,7 +35,6 @@
     {"id":{"name":"font_VCR","path":"fonts/font_VCR/font_VCR.yy",},},
     {"id":{"name":"note_license","path":"notes/note_license/note_license.yy",},},
     {"id":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},},
-    {"id":{"name":"obj_cutsceneTrigger","path":"objects/obj_cutsceneTrigger/obj_cutsceneTrigger.yy",},},
     {"id":{"name":"obj_funValueDisplay","path":"objects/obj_funValueDisplay/obj_funValueDisplay.yy",},},
     {"id":{"name":"obj_gifManager","path":"objects/obj_gifManager/obj_gifManager.yy",},},
     {"id":{"name":"obj_resu","path":"objects/obj_resu/obj_resu.yy",},},
