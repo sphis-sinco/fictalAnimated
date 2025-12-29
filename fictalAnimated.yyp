@@ -104,12 +104,12 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
     {"roomId":{"name":"rm_scene_selector","path":"rooms/rm_scene_selector/rm_scene_selector.yy",},},
-    {"roomId":{"name":"rm_scene_fun85","path":"rooms/rm_scene_fun85/rm_scene_fun85.yy",},},
     {"roomId":{"name":"rm_scene","path":"rooms/rm_scene/rm_scene.yy",},},
     {"roomId":{"name":"rm_scene1","path":"rooms/rm_scene1/rm_scene1.yy",},},
     {"roomId":{"name":"rm_scene2_part1","path":"rooms/rm_scene2_part1/rm_scene2_part1.yy",},},
     {"roomId":{"name":"rm_scene2_part2","path":"rooms/rm_scene2_part2/rm_scene2_part2.yy",},},
     {"roomId":{"name":"rm_scene2_part3","path":"rooms/rm_scene2_part3/rm_scene2_part3.yy",},},
+    {"roomId":{"name":"rm_scene_fun85","path":"rooms/rm_scene_fun85/rm_scene_fun85.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
