@@ -1,12 +1,13 @@
 /// @description Dialogue (Scene 2)
 
 if (tick == 0) then {
-	global.dialogue = "Resu:\nIt's time."
-	
-	// part_system_clear(particle_creation)
-	
+	global.dialogue = "e811:\nIt's time."	
 }
-if (tick == 680) then {
+if (tick == 80) then {
+	global.dialogue = "Resu:\nI understand"	
+}
+if (tick == 120) then {
+	audio_play_sound(sfx_scene2_darknesscut, 10, false)
 	room = rm_scene_selector
 }
 
