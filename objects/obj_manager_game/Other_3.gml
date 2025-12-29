@@ -1,4 +1,4 @@
-/// @description when the game stops
+/// @description save on exit
 
 show_debug_message("ENDING")
 openSave()

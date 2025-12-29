@@ -1,4 +1,4 @@
-/// @description when the game starts
+/// @description functions
 
 show_debug_log(debug_mode)
 

@@ -2,9 +2,15 @@
 
 if (room == rm_init) then {
 	global.custom_savepath_prefix = "../../../../../fictalAnimated/"
-	global.gif_count = 0
 	randomise()
 	global.fun = 0.0
+	
+	global.gif_count = 0
+	global.save_gif = false
+	global.gif_name = false
+	global.gif_frame_count = 0
+	global.gif_frame_count_max = 60 * 30
+	global.gif_image = pointer_null
 
 	global.dialogue = "apple\nbottom\njeans"
 	if (not debug_mode) then {

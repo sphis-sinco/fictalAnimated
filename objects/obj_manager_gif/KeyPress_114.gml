@@ -1,6 +1,6 @@
 /// @description cancel Gif Making
 
-if save_gif then {
-	frame_count = frame_count_max
+if global.save_gif then {
+	global.gif_frame_count = global.gif_frame_count_max
 	show_debug_message("i dont wanna do gif no more >:(")
 }

@@ -16,9 +16,6 @@ if (tick == 360) then {
  
 if (tick == 480) then {
 	keyboard_key_press(vk_f3)
-}
-
-if (tick == 480 + 20) then {
 	room = rm_scene_selector
 }
 

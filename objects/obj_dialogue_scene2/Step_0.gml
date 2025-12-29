@@ -16,6 +16,7 @@ if (tick == 180) then {
 	room = rm_scene2_piece3
 }
 if (tick == 400) then {
+	keyboard_key_press(vk_f3) 
 	room = rm_scene_selector
 }
 
