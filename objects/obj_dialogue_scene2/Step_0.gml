@@ -30,9 +30,14 @@ if (tick == 320) then {
 if (tick == 380) then {
 	global.dialogue = "Kinv:\nThank you, Resu."
 }
+
+if (tick >= 380) then {	
+	if (global.save_gif)
+		keyboard_key_press(vk_f3)
+}
+
 if (tick == 400) then {
 	audio_stop_sound(snd_ambience_horrordrone_20)
-	keyboard_key_press(vk_f3) 
 	room = rm_scene_selector
 }
 

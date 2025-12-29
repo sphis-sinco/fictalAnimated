@@ -14,10 +14,13 @@ if (tick == 240) then {
 if (tick == 360) then {
 	global.dialogue = "e811:\n> I see."
 }
- 
+
+if (tick == 460) then {	
+	keyboard_key_press(vk_f3)
+}
+
 if (tick == 480) then {
 	audio_stop_sound(snd_ambience_night)
-	keyboard_key_press(vk_f3)
 	room = rm_scene_selector
 }
 
