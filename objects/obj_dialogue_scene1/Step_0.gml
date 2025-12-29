@@ -6,7 +6,7 @@ if (tick == 0) then {
 }
 if (tick == 120) then {
 	global.dialogue = "< No,"
-}
+} 
 if (tick == 240) then {
 	global.dialogue = "< I got distracted."
 }
