@@ -1,0 +1,4 @@
+Kinv--Did you do it?--0
+Resu--No,--120
+Resu--I got distracted.--240
+Kinv--I see.--360

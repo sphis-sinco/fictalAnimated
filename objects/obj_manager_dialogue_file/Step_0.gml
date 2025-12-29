@@ -13,6 +13,10 @@ for (var i = 0; i < array_length(dialogue_lines); i += 1)
 	}
 }
 
+if (tick == 0 and gif_autorecord) then {
+	keyboard_key_press(vk_f2)
+}
+
 if (tick >= dialogue_ending_tick - 20) then {	
 	if (global.save_gif)
 		keyboard_key_press(vk_f3)
