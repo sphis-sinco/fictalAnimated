@@ -22,7 +22,7 @@ if (save_gif)
         save_gif = false;		
 		
 		show_debug_message("gif done :3")
-		show_debug_message(program_directory + gif_name + ".gif")
+		show_debug_message("location: localappdata (probably)" + gif_name + ".gif")
     }
 	
     frame_count++;

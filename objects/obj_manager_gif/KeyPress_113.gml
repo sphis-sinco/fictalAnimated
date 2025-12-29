@@ -1,7 +1,7 @@
 /// @description F2 starts the gif making
 
 if not save_gif then {
-	gif_name = GM_version + "/"
+	gif_name = "gifs/" + GM_version + "/"
 	gif_name += room_get_name(room)
 	if (debug_mode) then {
 		gif_name += "-debug"
