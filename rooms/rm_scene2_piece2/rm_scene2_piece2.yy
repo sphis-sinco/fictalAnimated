@@ -9,6 +9,7 @@
     {"name":"gifMan1_1","path":"rooms/rm_scene2_piece2/rm_scene2_piece2.yy",},
     {"name":"dialogueBox1_1","path":"rooms/rm_scene2_piece2/rm_scene2_piece2.yy",},
     {"name":"inst_5D7D0A2_1","path":"rooms/rm_scene2_piece2/rm_scene2_piece2.yy",},
+    {"name":"inst_22ABDE12","path":"rooms/rm_scene2_piece2/rm_scene2_piece2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -21,6 +22,12 @@
         {"$GMRInstance":"v4","%Name":"inst_5D7D0A2_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5D7D0A2_1","objectId":{"name":"obj_dialogue_scene2","path":"objects/obj_dialogue_scene2/obj_dialogue_scene2.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_dialogue_scene2","path":"objects/obj_dialogue_scene2/obj_dialogue_scene2.yy",},"propertyId":{"name":"tick","path":"objects/obj_dialogue_scene2/obj_dialogue_scene2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"121",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":0.0,},
+        {"$GMRInstance":"v4","%Name":"inst_22ABDE12","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_22ABDE12","objectId":{"name":"obj_manager_dialogue_file","path":"objects/obj_manager_dialogue_file/obj_manager_dialogue_file.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_manager_dialogue_file","path":"objects/obj_manager_dialogue_file/obj_manager_dialogue_file.yy",},"propertyId":{"name":"dialogue_file","path":"objects/obj_manager_dialogue_file/obj_manager_dialogue_file.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"dialogue/dialogue_scene2.txt",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_manager_dialogue_file","path":"objects/obj_manager_dialogue_file/obj_manager_dialogue_file.yy",},"propertyId":{"name":"dialogue_ending_tick","path":"objects/obj_manager_dialogue_file/obj_manager_dialogue_file.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"400",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_manager_dialogue_file","path":"objects/obj_manager_dialogue_file/obj_manager_dialogue_file.yy",},"propertyId":{"name":"gif_autorecord","path":"objects/obj_manager_dialogue_file/obj_manager_dialogue_file.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"False",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_manager_dialogue_file","path":"objects/obj_manager_dialogue_file/obj_manager_dialogue_file.yy",},"propertyId":{"name":"dialogue_starting_tick","path":"objects/obj_manager_dialogue_file/obj_manager_dialogue_file.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"121",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":0.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMREffectLayer":"","%Name":"TINT","depth":200,"effectEnabled":true,"effectType":"_filter_tintfilter","gridX":32,"gridY":32,"hierarchyFrozen":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"TINT","properties":[
         {"name":"g_TintCol","type":1,"value":"#FF7F5B68",},

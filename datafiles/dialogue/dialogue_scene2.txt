@@ -1,0 +1,6 @@
+Kinv--It's Time.--0
+Resu--I understand--80
+----121
+Resu--It's done Kinv.--200
+Kinv--Thank you, Resu.--300
+----360

@@ -9,7 +9,11 @@ for (var i = 0; i < array_length(dialogue_lines); i += 1)
 	target_tick = int64(split_line[2])
 	
 	if (tick == target_tick) then {
-		global.dialogue = user + ":\n" + dialogue
+		global.dialogue = ""
+		if (not (user == "")) then {
+			global.dialogue += user + ":\n"
+		}
+		global.dialogue += dialogue
 	}
 }
 
@@ -23,6 +27,7 @@ if (tick >= dialogue_ending_tick - 20) then {
 }
 
 if (tick >= dialogue_ending_tick) then {
+	global.dialogue = ""
 	room = rm_scene_selector
 }
 
