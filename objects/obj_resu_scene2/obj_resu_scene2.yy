@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_resu_scene2_rest",
-    "path":"sprites/spr_resu_scene2_rest/spr_resu_scene2_rest.yy",
+    "name":"spr_resu_scene2_prepared",
+    "path":"sprites/spr_resu_scene2_prepared/spr_resu_scene2_prepared.yy",
   },
   "spriteMaskId":null,
   "visible":true,

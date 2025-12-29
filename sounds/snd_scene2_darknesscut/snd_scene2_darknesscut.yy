@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_scene2_darknesscut",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":3,
+  "compressionQuality":0,
+  "conversionMode":0,
+  "duration":0.99214584,
+  "exportDir":"",
+  "name":"snd_scene2_darknesscut",
+  "parent":{
+    "name":"audio",
+    "path":"folders/project/audio.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"snd_scene2_darknesscut.wav",
+  "volume":1.0,
+}
