@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sfx_creation",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":3,
+  "compressionQuality":0,
+  "conversionMode":0,
+  "duration":5.0,
+  "exportDir":"",
+  "name":"sfx_creation",
+  "parent":{
+    "name":"audio",
+    "path":"folders/project/audio.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"sfx_creation.wav",
+  "volume":1.0,
+}
