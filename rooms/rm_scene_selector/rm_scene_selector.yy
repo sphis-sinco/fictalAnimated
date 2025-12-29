@@ -28,8 +28,8 @@
   ],
   "name":"rm_scene_selector",
   "parent":{
-    "name":"rooms",
-    "path":"folders/project/rooms.yy",
+    "name":"menus",
+    "path":"folders/project/rooms/menus.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

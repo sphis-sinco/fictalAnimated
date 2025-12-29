@@ -28,8 +28,8 @@
   ],
   "name":"rm_scene2_piece1",
   "parent":{
-    "name":"rooms",
-    "path":"folders/project/rooms.yy",
+    "name":"scenes",
+    "path":"folders/project/rooms/scenes.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

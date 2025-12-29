@@ -24,6 +24,8 @@
     {"$GMFolder":"","%Name":"menus","folderPath":"folders/project/objects/menus.yy","name":"menus","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"particles","folderPath":"folders/project/particles.yy","name":"particles","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"rooms","folderPath":"folders/project/rooms.yy","name":"rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"menus","folderPath":"folders/project/rooms/menus.yy","name":"menus","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"scenes","folderPath":"folders/project/rooms/scenes.yy","name":"scenes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"sprites","folderPath":"folders/project/sprites.yy","name":"sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"animation","folderPath":"folders/project/sprites/animation.yy","name":"animation","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"menus","folderPath":"folders/project/sprites/menus.yy","name":"menus","resourceType":"GMFolder","resourceVersion":"2.0",},
