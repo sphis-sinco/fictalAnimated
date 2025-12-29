@@ -1,0 +1,5 @@
+N/A--Is anyone there?--0
+N/A--I don't...--250
+N/A--I cant...--400
+N/A--Who are you?--450
+Worker--Your creator--620
