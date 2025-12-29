@@ -22,7 +22,7 @@ if (global.save_gif)
         global.save_gif = false;		
 		
 		show_debug_message("gif done :3")
-		show_debug_message("C:/" + string_trim(string_split(global.gif_name, "_")[0], ["../"]) + ".gif")
+		show_debug_message("C:/" + string_trim(global.gif_name, ["../"]) + ".gif")
     }
 	
     global.gif_frame_count++;
