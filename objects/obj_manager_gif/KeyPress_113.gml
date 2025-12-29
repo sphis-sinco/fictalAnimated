@@ -1,11 +1,15 @@
 /// @description F2 starts the gif making
 
 if not save_gif then {
-	gif_name = global.custom_savepath_prefix + "gifs/" + GM_version + "/"
-	gif_name += room_get_name(room)
+	gif_name = global.custom_savepath_prefix
 	if (debug_mode) then {
-		gif_name += "-debug"
+		gif_name += "debug/"
+	} else {
+		gif_name += "release/"
 	}
+	gif_name += "gifs/" + GM_version + "/"
+	gif_name += room_get_name(room)
+	
 	gif_name += "-" + string(global.gif_count)
 
 	global.gif_count++
