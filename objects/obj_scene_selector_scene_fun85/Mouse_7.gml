@@ -1,3 +1,5 @@
 /// @description hi
 
-room = rm_scene_fun85
+if (visible) then {
+	room = rm_scene_fun85
+}
