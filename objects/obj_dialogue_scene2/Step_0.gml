@@ -8,11 +8,11 @@ if (tick == 0) then {
 if (tick == 120) then {
 	audio_stop_sound(snd_ambience_horrordrone_20)
 	audio_play_sound(snd_scene2_darknesscut, 10, false)
-	room = rm_scene2_piece2
+	room = rm_scene2_part2
 }
 if (tick == 180) then {
 	audio_play_sound(snd_creation, 10, false)
-	room = rm_scene2_piece3
+	room = rm_scene2_part3
 	audio_play_sound(snd_ambience_horrordrone_20, 10, false)
 }
 if (tick == 395) then {
