@@ -1,6 +1,7 @@
 /// @description  init room stuffs
 
 if (room == rm_init) then {
+	global.custom_savepath_prefix = "../../../../../fictalAnimated/"
 	global.gif_count = 0
 	randomise()
 	global.fun = 0.0
