@@ -25,7 +25,10 @@
     {"$GMFolder":"","%Name":"menus","folderPath":"folders/project/sprites/menus.yy","name":"menus","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"scenes","folderPath":"folders/project/sprites/scenes.yy","name":"scenes","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "ForcedPrefabProjectReferences":[],
+  "ForcedPrefabProjectReferences":[
+    {"link":"io.gamemaker.gm_filter_old_film-1.0.0","name":"io.gamemaker.gm_filter_old_film-1.0.0","path":"io.gamemaker.gm_filter_old_film-1.0.0.yyp",},
+    {"link":"io.gamemaker.gm_filter_fractal_noise-1.0.0","name":"io.gamemaker.gm_filter_fractal_noise-1.0.0","path":"io.gamemaker.gm_filter_fractal_noise-1.0.0.yyp",},
+  ],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
