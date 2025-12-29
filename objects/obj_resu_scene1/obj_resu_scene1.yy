@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dialogue_scene1",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_resu_scene1",
+  "eventList":[],
   "managed":true,
-  "name":"obj_dialogue_scene1",
+  "name":"obj_resu_scene1",
   "overriddenProperties":[],
   "parent":{
     "name":"scene1",
@@ -23,15 +21,21 @@
   "physicsRestitution":0.1,
   "physicsSensor":false,
   "physicsShape":1,
-  "physicsShapePoints":[],
-  "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v2","%Name":"tick","filters":[],"listItems":[],"multiselect":false,"name":"tick","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
+  "physicsShapePoints":[
+    {"x":0.0,"y":0.0,},
+    {"x":32.0,"y":0.0,},
+    {"x":32.0,"y":64.0,},
+    {"x":0.0,"y":64.0,},
   ],
+  "physicsStartAwake":true,
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_resu_scene1",
+    "path":"sprites/spr_resu_scene1/spr_resu_scene1.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

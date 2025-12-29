@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_resu",
+  "%Name":"obj_resu_scene2",
   "eventList":[],
   "managed":true,
-  "name":"obj_resu",
+  "name":"obj_resu_scene2",
   "overriddenProperties":[],
   "parent":{
-    "name":"animation",
-    "path":"folders/project/objects/animation.yy",
+    "name":"scene2",
+    "path":"folders/project/objects/animation/scene2.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_resu_stand_right",
-    "path":"sprites/spr_resu_stand_right/spr_resu_stand_right.yy",
+    "name":"spr_resu_scene2_rest",
+    "path":"sprites/spr_resu_scene2_rest/spr_resu_scene2_rest.yy",
   },
   "spriteMaskId":null,
   "visible":true,

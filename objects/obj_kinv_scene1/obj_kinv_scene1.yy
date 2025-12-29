@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_kinv",
+  "%Name":"obj_kinv_scene1",
   "eventList":[],
   "managed":true,
-  "name":"obj_kinv",
+  "name":"obj_kinv_scene1",
   "overriddenProperties":[],
   "parent":{
-    "name":"animation",
-    "path":"folders/project/objects/animation.yy",
+    "name":"scene1",
+    "path":"folders/project/objects/animation/scene1.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_kinv_rest",
-    "path":"sprites/spr_kinv_rest/spr_kinv_rest.yy",
+    "name":"spr_kinv_scene1",
+    "path":"sprites/spr_kinv_scene1/spr_kinv_scene1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

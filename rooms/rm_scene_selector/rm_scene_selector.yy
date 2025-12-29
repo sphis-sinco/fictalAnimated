@@ -9,6 +9,7 @@
     {"name":"scene1","path":"rooms/rm_scene_selector/rm_scene_selector.yy",},
     {"name":"funValue","path":"rooms/rm_scene_selector/rm_scene_selector.yy",},
     {"name":"iniReseter","path":"rooms/rm_scene_selector/rm_scene_selector.yy",},
+    {"name":"inst_71E1A4D8","path":"rooms/rm_scene_selector/rm_scene_selector.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -16,6 +17,7 @@
         {"$GMRInstance":"v4","%Name":"scene1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"scene1","objectId":{"name":"obj_scene_selector_scene1","path":"objects/obj_scene_selector_scene1/obj_scene_selector_scene1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":32.0,"y":192.0,},
         {"$GMRInstance":"v4","%Name":"funValue","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"funValue","objectId":{"name":"obj_fun_value","path":"objects/obj_fun_value/obj_fun_value.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
         {"$GMRInstance":"v4","%Name":"iniReseter","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"iniReseter","objectId":{"name":"obj_scene_selector_resetIni","path":"objects/obj_scene_selector_resetIni/obj_scene_selector_resetIni.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":1120.0,"y":32.0,},
+        {"$GMRInstance":"v4","%Name":"inst_71E1A4D8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_71E1A4D8","objectId":{"name":"obj_scene_selector_scene2","path":"objects/obj_scene_selector_scene2/obj_scene_selector_scene2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":192.0,"y":192.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets","assets":[
         {"$GMRTextItem":"v3","%Name":"title","alignment":0,"charSpacing":0.0,"colour":4294967295,"fontId":{"name":"font_VCR","path":"fonts/font_VCR/font_VCR.yy",},"frameH":0.0,"frameW":0.0,"frozen":true,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"title","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":4.0,"scaleY":4.0,"text":"FICTAL ANIMATED","wrap":false,"x":280.0,"y":0.0,},
