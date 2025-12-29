@@ -12,7 +12,7 @@ if not (global.save_gif or room == rm_scene_selector) then {
 	
 	global.gif_name += "-" + string(global.gif_count)
 
-	global.gif_count++
+	global.gif_count += 1
 	global.gif_frame_count = 0
 	global.save_gif = true
 
