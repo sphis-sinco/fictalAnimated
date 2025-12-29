@@ -1,7 +1,7 @@
 /// @description  init room stuffs
 
 if (room == rm_init) then {
-	global.custom_savepath_prefix = "../../../../../fictalAnimated/"
+	global.custom_savepath_prefix = "../../../../../macohi/fictalAnimated/"
 	randomise()
 	global.fun = 0.0
 	
