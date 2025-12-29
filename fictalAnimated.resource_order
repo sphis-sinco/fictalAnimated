@@ -35,6 +35,8 @@
     {"name":"particle_creation_burst","order":1,"path":"particles/particle_creation_burst/particle_creation_burst.yy",},
     {"name":"rm_init","order":2,"path":"rooms/rm_init/rm_init.yy",},
     {"name":"rm_scene_fun85","order":4,"path":"rooms/rm_scene_fun85/rm_scene_fun85.yy",},
+    {"name":"rm_scene","order":5,"path":"rooms/rm_scene/rm_scene.yy",},
+    {"name":"rm_scene1","order":6,"path":"rooms/rm_scene1/rm_scene1.yy",},
     {"name":"rm_scene2_piece1","order":1,"path":"rooms/rm_scene2_piece1/rm_scene2_piece1.yy",},
     {"name":"rm_scene2_piece2","order":2,"path":"rooms/rm_scene2_piece2/rm_scene2_piece2.yy",},
     {"name":"rm_scene2_piece3","order":3,"path":"rooms/rm_scene2_piece3/rm_scene2_piece3.yy",},
