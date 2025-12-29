@@ -77,7 +77,6 @@
     {"id":{"name":"snd_ambience_night","path":"sounds/snd_ambience_night/snd_ambience_night.yy",},},
     {"id":{"name":"snd_creation","path":"sounds/snd_creation/snd_creation.yy",},},
     {"id":{"name":"snd_scene2_darknesscut","path":"sounds/snd_scene2_darknesscut/snd_scene2_darknesscut.yy",},},
-    {"id":{"name":"spr_creation","path":"sprites/spr_creation/spr_creation.yy",},},
     {"id":{"name":"spr_icon","path":"sprites/spr_icon/spr_icon.yy",},},
     {"id":{"name":"spr_kinv_scene1","path":"sprites/spr_kinv_scene1/spr_kinv_scene1.yy",},},
     {"id":{"name":"spr_particle_creation","path":"sprites/spr_particle_creation/spr_particle_creation.yy",},},

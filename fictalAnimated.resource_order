@@ -38,7 +38,6 @@
     {"name":"snd_ambience_horrordrone_20","order":3,"path":"sounds/snd_ambience_horrordrone_20/snd_ambience_horrordrone_20.yy",},
     {"name":"snd_ambience_night","order":2,"path":"sounds/snd_ambience_night/snd_ambience_night.yy",},
     {"name":"snd_scene2_darknesscut","order":1,"path":"sounds/snd_scene2_darknesscut/snd_scene2_darknesscut.yy",},
-    {"name":"spr_creation","order":9,"path":"sprites/spr_creation/spr_creation.yy",},
     {"name":"spr_kinv_scene1","order":6,"path":"sprites/spr_kinv_scene1/spr_kinv_scene1.yy",},
     {"name":"spr_resu_scene2_prepared","order":7,"path":"sprites/spr_resu_scene2_prepared/spr_resu_scene2_prepared.yy",},
     {"name":"spr_resu_scene2_proceed","order":8,"path":"sprites/spr_resu_scene2_proceed/spr_resu_scene2_proceed.yy",},
