@@ -1,3 +1,3 @@
 /// @description hi
 
-room = rm_scene2
+room = rm_scene2_piece1
